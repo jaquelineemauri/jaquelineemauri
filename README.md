@@ -1,4 +1,4 @@
-* ## 😃 Oi, sou a Jaqueline Mauri [@jaquelineemauri](https://www.linkedin.com/in/jaquelineemauri/)
+* ## 😃 Oi, sou a Jaqueline Mauri
 * 🎓 _Formada em Ciências Econômicas pela PUC-SP_
 * 🧩 Atualmente, focada em análise de dados
 <div style="display: inline_block"><br>
