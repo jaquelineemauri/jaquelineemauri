@@ -1,4 +1,4 @@
-## 😃 Oi, sou a Jaqueline Mauri
+## 😃 Oi, sou a Jaque
 * 🎓 _Formada em Ciências Econômicas pela PUC-SP_
 * 🧩 Atualmente, focada em análise de dados
 
