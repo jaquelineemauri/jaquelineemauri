@@ -1,4 +1,4 @@
-## 😃 Hi, sou a JaqueLine Mauri
+## 😃 Hi, I'm JaqueLine Mauri
 <p align="justify">Data Analytics Developer from São Paulo/SP, Brazil and Economist post graduated in Business Management. My first "Hello World" was in 2020 when I had contact with Java. 
 <br>
 Passionate about sports and food, some of my hobbies are voleyball, climbing, circus acrobatics, watching series, and cooking.</p>
